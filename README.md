@@ -1,1 +1,1 @@
-# learning-_numpy-and-SQL-
+### my SQL Lite now has two table: CUSTOMER and PRODUCT
