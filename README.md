@@ -1,1 +1,1 @@
-### my SQL Lite now has two tables: CUSTOMER and PRODUCT
+### my SQL Lite now has threes tables: CUSTOMER, PRODUCT and STOCK
